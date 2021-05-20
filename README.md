@@ -9,7 +9,7 @@ Daftar Isi:
 4. Folder RESOURCE:
     - MyNewThesis : Tesis dari senior
     - Isi folder new:
-      - folder split dan file merged.csv tidak digunakan
+      - !!folder split dan file merged.csv tidak digunakan!!
       - fold1, fold2, dsb. untuk pengujian
       - train.csv untuk training
       - test.csv untuk testing
