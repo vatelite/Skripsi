@@ -7,7 +7,7 @@ Daftar Isi:
 2. file python: skripsi.py & skripsi.ipnyb (sama aja isinya, nanti salah satu aku drop kalo nggak kepake)
 3. hasil perhitungan di excel: train.xlsx
 4. Folder RESOURCE:
-    - MyNewThesis: Tesis dari senior
+    - MyNewThesis: Tesis acuan dari senior
     - Isi folder new:
       - isi folder split dan file merged.csv tidak digunakan
       - fold1, fold2, dsb. untuk pengujian
